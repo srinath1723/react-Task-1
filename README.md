@@ -22,28 +22,28 @@
 
    * CSS File: The `App.css` file is imported for styling. Basic styles include layout (flexbox), card appearance, and feature icons (check and cross marks).
    
-  **CSS**
+ **CSS**
       
-       * Head Section: Centered text alignment and margin.
+   * Head Section: Centered text alignment and margin.
 
-       * Container: Flexbox layout for centering card list.
+   * Container: Flexbox layout for centering card list.
 
-       * Card List: Flexbox layout with wrapping and gap for spacing.
+   * Card List: Flexbox layout with wrapping and gap for spacing.
 
-       * Card Item: Background, border, shadow, width, padding, and text alignment.
+   * Card Item: Background, border, shadow, width, padding, and text alignment.
 
-       * Card: Padding for internal spacing.
+   * Card: Padding for internal spacing.
 
-       * Header: Centered text alignment and margin-bottom.
+   * Header: Centered text alignment and margin-bottom.
 
-       * Amount: Font size and margin for the amount text.
+   * Amount: Font size and margin for the amount text.
 
-       * Card Divider: Top border for a horizontal line.
+   * Card Divider: Top border for a horizontal line.
 
-       * Card Body: List style set to none and no padding.
+   * Card Body: List style set to none and no padding.
 
-       * Icons: Check mark color set to green. Cross mark color set to red.
+   * Icons: Check mark color set to green. Cross mark color set to red.
 
-       * Button: Full width, padding, border radius, color, background color, and cursor style. Conditional `lite` class for light blue background.
+   * Button: Full width, padding, border radius, color, background color, and cursor style. Conditional `lite` class for light blue background.
 
 
